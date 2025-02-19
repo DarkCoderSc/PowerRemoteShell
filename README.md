@@ -2,6 +2,8 @@
 
 A PowerShell module that can also function as a standalone script, enabling users to spawn either a bind or reverse shell. Additionally, it includes the capability to authenticate the shell session as a different Windows user.
 
+⚠ This project is not intended for production use, as network traffic is transmitted in clear text. It was created for Capture The Flag (CTF) challenges and certification labs. In the future, I may integrate additional protocols and encryption methods. For now, this script serves as a simplified solution to challenges I have encountered in CTFs and labs. Use it at your own risk and only with a full understanding of its intended purpose.
+
 ## Quick Setup
 
 ```powershell
